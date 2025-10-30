@@ -1,1 +1,1 @@
-(/screenshots/123.jpg)
+(/py/123.png)
